@@ -14,3 +14,4 @@ const settings = {
 $.ajax(settings).done(function (response) {
 	console.log(response);
 });
+// ajax , method get from git hub repository 
